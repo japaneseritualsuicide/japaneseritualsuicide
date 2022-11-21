@@ -18,7 +18,7 @@
     top: 23%;
     transform: translateY(-50%);
     text-align: center;
-    color: red;
-    text-shadow: 0 5px 10px rgba(0, 0, 0, 1);
+    color: green;
+    text-shadow: 0 5px 10px white;
     mix-blend-mode: overlay;
 }
