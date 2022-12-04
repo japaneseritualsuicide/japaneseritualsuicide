@@ -18,7 +18,5 @@
     top: 23%;
     transform: translateY(-50%);
     text-align: center;
-    color: green;
-    text-shadow: 0 5px 10px white;
-    mix-blend-mode: overlay;
+    color: black;
 }
